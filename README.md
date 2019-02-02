@@ -1,4 +1,4 @@
-# About / Synopsis
+# About
 
 * Consider a system, with k processing elements and m memory modules interconected by a network capable of pairing any processor to any
 memory. The goal of this project is to simulate this type of architecture with the following rules:
