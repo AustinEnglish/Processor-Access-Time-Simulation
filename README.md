@@ -13,6 +13,7 @@ memory. The goal of this project is to simulate this type of architecture with t
 ![Design](https://github.com/AustinEnglish/Processor-Access-Time-Simulation/blob/master/architechture.jpg?raw=true "Title")
 
 ## Results
+![Design](https://github.com/AustinEnglish/Processor-Access-Time-Simulation/blob/master/results.jpg?raw=true "Title")
 
 
 
