@@ -10,7 +10,7 @@ memory. The goal of this project is to simulate this type of architecture with t
 * 7. Each cycle ends when compared with last runs average with currebt runs average, if less that .02% terminate
 * 8. The simulation ends at once all 0-2047 memory models run with a fixed certain amount of processors
 ## Screenshots
-![System design](https://raw.githubusercontent.com/AustinEnglish/Processor-Access-Time-Simulation/master/https://github.com/AustinEnglish/Processor-Access-Time-Simulation/blob/master/architechture.jpg)
+![System design](https://raw.githubusercontent.com/AustinEnglish/Processor-Access-Time-Simulation/blob/master/architechture.jpg)
 
 
 
