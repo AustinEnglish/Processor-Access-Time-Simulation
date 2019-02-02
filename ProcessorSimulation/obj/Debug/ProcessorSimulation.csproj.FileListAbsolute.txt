@@ -1,0 +1,10 @@
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\bin\Debug\ProcessorSimulation.exe.config
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\bin\Debug\ProcessorSimulation.exe
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\bin\Debug\ProcessorSimulation.pdb
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\obj\Debug\ProcessorSimulation.csproj.CoreCompileInputs.cache
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\obj\Debug\ProcessorSimulation.exe
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\obj\Debug\ProcessorSimulation.pdb
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\bin\Debug\MathNet.Numerics.dll
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\bin\Debug\MathNet.Numerics.xml
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\obj\Debug\ProcessorSimulation.csproj.CopyComplete
+C:\Projects\C#\ProcessorSimulation\ProcessorSimulation\obj\Debug\ProcessorSimulation.csprojAssemblyReference.cache
